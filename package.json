@@ -1,0 +1,15 @@
+{
+  "name": "ts-oop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./build/inheritance.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
