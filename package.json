@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon ./build/inheritance.js"
+    "dev": "nodemon ./build/static_property_method.js"
   },
   "license": "MIT",
   "devDependencies": {
