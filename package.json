@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon ./build/interface.js"
+    "dev": "nodemon ./build/generic_class.js"
   },
   "license": "MIT",
   "devDependencies": {
