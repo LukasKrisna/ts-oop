@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon ./build/generic_class.js"
+    "dev": "nodemon ./build/type_parameters_in_generic_constraints.js"
   },
   "license": "MIT",
   "devDependencies": {
